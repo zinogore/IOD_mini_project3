@@ -1,5 +1,7 @@
 # IOD_mini_project3
-IOD mini project that encapsulate all previously taught modules
+Summary of project: [IOD_mini_project3](IOD_mini_project3.pdf)
+
+![Sentiment analysis - VADER](https://github.com/zinogore/IOD_mini_project3/blob/VADER_CompoundScore.jpg?raw=true)
 
 Description:
 The purpose of the Mini Project is to reinforce skills that have been covered in recent modules. Select a data set and analyse it using the techniques learned in recent modules. Prepare and present a 10-minute PowerPoint presentation and a 5-minute Jupyter notebook presentation in class.
@@ -19,3 +21,10 @@ Explanation of the business context behind the dataset
 Quality of presentation - engaging, well structured, not too short or too long
 Quality of the notebook - code well documented, runs correctly
 Time-management - please keep strictly to the time given
+
+| Files         | Description   | Type |
+| ------------- | ------------- | ------------- |
+| [IOD_mini_project3](IOD_mini_project3.pdf) | Summary of the project which includes visualizations and key findings | PDF file |
+| [requirements](requirements.txt) | Dependency requirements used for this project | Text file |
+| [IOD_mini_project3](IOD_mini_project3.ipynb) | Steps on EDA, classification model and sentiment analysis | Jupyter Notebook |
+| [drugsComTrain_raw.zip.001](drugsComTrain_raw.zip.001) , [drugsComTrain_raw.zip.002](drugsComTrain_raw.zip.002) , [drugsComTrain_raw.zip.003](drugsComTrain_raw.zip.003) | Raw data files from kaggle | zip file |
