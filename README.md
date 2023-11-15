@@ -1,7 +1,10 @@
 # IOD_mini_project3
 Summary of project: [IOD_mini_project3](IOD_mini_project3.pdf)
-
-![Sentiment analysis - VADER](https://github.com/zinogore/IOD_mini_project3/blob/VADER_CompoundScore.jpg?raw=true)
+| Visualization Preview       | Description   |
+| ------------- | ------------- |
+| ![alt text](https://github.com/zinogore/IOD_mini_project3/blob/main/VADER_CompoundScore.jpg?raw=true) | Sentiment analysis - VADER |
+| ![alt text](https://github.com/zinogore/IOD_mini_project3/blob/main/HuggingFace_roberta.jpg?raw=true) | Sentiment analysis - HuggingFace roBERTa|
+| ![alt text](https://github.com/zinogore/IOD_mini_project3/blob/main/Keywords_Useful_Review.jpg?raw=true) | Word Cloud of keywords from highly rated reviews |
 
 Description:
 The purpose of the Mini Project is to reinforce skills that have been covered in recent modules. Select a data set and analyse it using the techniques learned in recent modules. Prepare and present a 10-minute PowerPoint presentation and a 5-minute Jupyter notebook presentation in class.
